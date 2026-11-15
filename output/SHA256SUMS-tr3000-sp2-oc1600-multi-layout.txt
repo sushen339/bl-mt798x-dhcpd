@@ -1,0 +1,2 @@
+e29b6257af074d25d14995cac743d55ba685ad9eb5702e32e5896eabb9632f50  output/bl2-mt7981_cudy_tr3000-v1_SP2-OC1600_md5-b20ea52a150b00240011749cfa409c1d.img
+4ae23f16a6cf8d06d63891d43c5f25521dda387db651bf1d4e4c4382f659ef15  output/fip-mt7981_cudy_tr3000-v1_SP2-Yuzhii-dhcpd-fixed-parts-multi-layout-OC1600_md5-631f71c746f5237d9e6782cda17b0361.bin
